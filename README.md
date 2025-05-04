@@ -1,7 +1,7 @@
 # IUCAA2016
 Fortran Code Used for my Bachelor's Thesis: Orbits of a Planet in a Protoplanetary Disk
 
-The code implements 4th order structure preserving symplective method for gravitational forces, extracting surface of section information, and fast forier transform to characterize frequencies in the problem.
+The code implements 4th order structure preserving symplective method (Forrest-Ruth Algorithm) for gravitational forces, extracting surface of section information, and fast forier transform to characterize frequencies in the problem.
 
 The Gnuplot commands to plot the data are included as comments in the code. 
 
